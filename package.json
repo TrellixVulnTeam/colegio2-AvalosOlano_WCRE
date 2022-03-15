@@ -1,0 +1,23 @@
+{
+  "name": "sass2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavaloso/colegio2-AvalosOlano.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavaloso/colegio2-AvalosOlano/issues"
+  },
+  "homepage": "https://github.com/mavaloso/colegio2-AvalosOlano#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
