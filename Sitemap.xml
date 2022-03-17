@@ -1,0 +1,39 @@
+<?xml version="1.0" ecoding="UTF-8"?>
+
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+  <url>
+    <loc>http://www.colegio360.com/index.html</loc>
+    <lastmod>2022-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+    <url>
+    <loc>http://www.colegio360.com/contacto.html</loc>
+    <lastmod>2022-03-16</lastmod>
+    <changefreq>wekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+    <url>
+    <loc>http://www.colegio360.com/Pilares.html</loc>
+    <lastmod>2022-03-16</lastmod>
+    <changefreq>wekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+    <url>
+    <loc>http://www.colegio360.com/Nosotros.html</loc>
+    <lastmod>2022-03-16</lastmod>
+    <changefreq>wekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+    <url>
+    <loc>http://www.colegio360.com/Transparencia.html</loc>
+    <lastmod>2022-03-16</lastmod>
+    <changefreq>wekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
