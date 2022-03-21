@@ -1,4 +1,4 @@
-Aplicando SASS y NodeSASS
+Aplicando SASS , NodeSASS y SEO
 -----------------------------------
 # Luego de instalar Node y NPM Comenzamos a trabajar en lo que respecta al SASS
 # Subida de todos los archivos para la correcta visualización de la web.
